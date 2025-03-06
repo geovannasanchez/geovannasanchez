@@ -1,12 +1,13 @@
-## Hi there 👋
+# Olá, Eu sou Geovanna Sanchez 👋
 
-<!--
-**geovannasanchez/geovannasanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 Sobre Mim
 
-Here are some ideas to get you started:
+- 🌱 Atualmente aprendendo 
+- 🎓 Estudante de  Ciencias de Dados na Univesp
+- 🌍 Estou localizado em Brotas, São Paulo
 
 
-🦋 Atualmente aprendendo
-💻 Focado em Ciencias de Dados
-🎓 Estudante de Ciencias de Dados na Univesp
-🌍 Estou localizado em Brotas, São Paulo
+## 💬 Como Entrar em Contato
+
+- 📧 [geovannasanchez0905@gmail.com](mailto:seu-email@dominio.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/geovannasanchez0905/)
